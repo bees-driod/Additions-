@@ -5,4 +5,5 @@ So what are you waiting for, download now!
 
 (* = pending composer validation)
 
-(also this is from modrinth)
+(btw i have no idea how to make it open source as i am using mcreator
+and ik that everyone hates the people who use it but im just trying to make a mod)
